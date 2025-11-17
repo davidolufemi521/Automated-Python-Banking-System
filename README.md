@@ -8,15 +8,7 @@ Welcome to the **Automated Python Banking System**. This project is a comprehens
 * **Real-Time Email Alerts:** Uses SMTP to send actual transaction receipts to your Gmail.
 * **Secure:** Credentials are never hardcoded; you input them securely at runtime.
 
----
 
-## 📸 Visual Tour
-| Main Dashboard | XAMPP Setup |
-|:---:|:---:|
- | ![XAMPP Control](xampp_control.png) |
-*(See screenshots folder for more previews)*
-
----
 
 ## 🔑 Important: Setting Up Email (Read First!)
 To allow the application to send email receipts, you need a **Gmail App Password**. You cannot use your regular login password (Google security blocks that).
@@ -38,9 +30,13 @@ To allow the application to send email receipts, you need a **Gmail App Password
 
 ### Step 1: Start the Server
 1.  Download and install [XAMPP](https://www.apachefriends.org/download.html).
-2.  Open **XAMPP Control Panel**.
-3.  Click **Start** next to **Apache** and **MySQL**.
-   ![Start Servers](xampp_control.png)
+   
+<img width="901" height="439" alt="xampp_download" src="https://github.com/user-attachments/assets/eb7d9a10-35ab-4b70-af1e-13aa6d270353" />
+
+3.  Open **XAMPP Control Panel**.
+4.  Click **Start** next to **Apache** and **MySQL**.
+    <img width="623" height="455" alt="xampp_control_panel" src="https://github.com/user-attachments/assets/958096da-3970-44ac-806b-93b4071ae3fb" />
+
 
 ### Step 2: Run the Code
 Open your terminal or IDE and run the script:
@@ -58,13 +54,19 @@ You can perform the following operations:
 3.  **Buy Airtime/Data:** Purchase utilities.
 4.  **Check Balance:** Real-time query of your database funds.
 5.  **Change Details:** Update your profile.
-![app menu](app_menu.png)
+
+<img width="645" height="402" alt="app_menu" src="https://github.com/user-attachments/assets/88f64f1f-ff10-43e2-bd56-ce73cc4e26ef" />
+
 ### Step 4: Instant Feedback (Email Integration)
 Every time you perform a critical transaction (like adding money or transferring funds), the system generates a digital receipt and fires it to your registered email via SMTP.
 
 *Here is an example of a transaction receipt:*
-![Email Receipt](email_receipt1.png)
-![Email Receipt](email_receipt2.png)
+
+![email_receipt1](https://github.com/user-attachments/assets/a8542708-ca3b-4940-93f4-e035a409b96a)
+
+![email_receipt2](https://github.com/user-attachments/assets/c59e011d-0ba9-43c0-8585-da6ade79a2d9)
+
+
 
 ---
 
@@ -76,3 +78,4 @@ Every time you perform a critical transaction (like adding money or transferring
 ## 👤 Author
 [Your Name Here]
 *Built with Python, MySQL, and Automation in mind.*
+
