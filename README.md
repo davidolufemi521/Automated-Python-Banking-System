@@ -79,8 +79,9 @@ Every time you perform a critical transaction (like adding money or transferring
 * **Internet Connection** (Crucial for the email API and initial setup)
 
 ## 👤 Author
-[Your Name Here]
+David olufemi
 *Built with Python, MySQL, and Automation in mind.*
+
 
 
 
