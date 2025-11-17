@@ -55,17 +55,20 @@ You can perform the following operations:
 4.  **Check Balance:** Real-time query of your database funds.
 5.  **Change Details:** Update your profile.
 
-<img width="645" height="402" alt="app_menu" src="https://github.com/user-attachments/assets/88f64f1f-ff10-43e2-bd56-ce73cc4e26ef" />
+<img width="645" height="402" alt="app_menu" src="https://github.com/user-attachments/assets/b85c4f11-45e9-4d88-8a9c-e91bbe00f951" />
+
 
 ### Step 4: Instant Feedback (Email Integration)
 Every time you perform a critical transaction (like adding money or transferring funds), the system generates a digital receipt and fires it to your registered email via SMTP.
 
 *Here is an example of a transaction receipt:*
 
-![email_receipt1](https://github.com/user-attachments/assets/a8542708-ca3b-4940-93f4-e035a409b96a)
 
-![email_receipt2](https://github.com/user-attachments/assets/c59e011d-0ba9-43c0-8585-da6ade79a2d9)
+![email_receipt1](https://github.com/user-attachments/assets/9e92245f-45b4-4546-807d-4113e6ee241b)
 
+
+
+![email_receipt2](https://github.com/user-attachments/assets/effdbdc5-3c11-49b6-83d0-21f5c334b612)
 
 
 ---
@@ -78,4 +81,5 @@ Every time you perform a critical transaction (like adding money or transferring
 ## 👤 Author
 [Your Name Here]
 *Built with Python, MySQL, and Automation in mind.*
+
 
