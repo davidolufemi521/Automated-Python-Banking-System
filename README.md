@@ -42,7 +42,7 @@ To allow the application to send email receipts, you need a **Gmail App Password
 Open your terminal or IDE and run the script:
 ```bash
 python banking_app.py
-
+```
 
 ### Step 3: The Banking Interface
 Once logged in, you are presented with the Main Dashboard.
@@ -81,5 +81,6 @@ Every time you perform a critical transaction (like adding money or transferring
 ## 👤 Author
 [Your Name Here]
 *Built with Python, MySQL, and Automation in mind.*
+
 
 
